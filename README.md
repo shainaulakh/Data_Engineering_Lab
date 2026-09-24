@@ -20,8 +20,8 @@ jupyter notebook
 
 ## Other Projects in My Portfolio
 
-* Project Name 1 : https://github.com/shainaulakh/DataStreamVisualization
+* Project Name 1 : <https://github.com/shainaulakh/DataStreamVisualization>
 
-* Project Name 2 : https://github.com/shainaulakh/CSCN8000-lab-submissions
+* Project Name 2 : <https://github.com/shainaulakh/CSCN8000-lab-submissions>
 
-* Project Name 3 : https://github.com/shainaulakh/anamoly_lab1
+* Project Name 3 : <https://github.com/shainaulakh/anamoly_lab1>
